@@ -71,6 +71,10 @@ mvn compile exec:java
 **Plain JDK**, from the project folder:
 
 ```bash
+mkdir out
+```
+
+```bash
 javac -encoding UTF-8 -d out src/main/java/com/mycompany/chatbotdemo/*.java
 ```
 
