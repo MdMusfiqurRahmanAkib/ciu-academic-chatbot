@@ -2,7 +2,7 @@
 
 A desktop chatbot for students of the School of Science and Engineering (SSE) at Chittagong Independent University. You type a question, and it answers from a set of keywords or opens the document you asked for, such as the course offer list, the tuition fee chart or a faculty profile.
 
-I built it in Java with Swing as the project for my Object Oriented Programming Lab course.
+I built it in Java with Swing as the project for my Object Oriented Programming Lab course, which I took in my first year at the university.
 
 ## Screenshots
 
